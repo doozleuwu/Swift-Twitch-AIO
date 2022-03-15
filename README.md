@@ -9,7 +9,7 @@
   <h2 align="center">Swift Twitch AIO</h3>
 
   <p align="center">
-    Uses requests to report a users message for a certain reason repetitively.
+    Fast Twitch AIO tool made by me. 
     <br />
     <br />
     <a href="https://github.com/kiIogram/Discord-Report-Bot/issues">Report Bug</a>
@@ -21,7 +21,7 @@
 ---------------------------------------
 
 ### Features
-* Fast
+* Uses High Quality homework 
 * Free
 * Proxyless
 * Reports a user for a message they sent
