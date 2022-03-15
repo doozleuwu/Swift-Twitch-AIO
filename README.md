@@ -21,9 +21,11 @@
 ---------------------------------------
 
 ### Features
-* Uses High Quality homework 
-* Free
-* Proxyless
-* Reports a user for a message they sent
+* Check Tokens
+* Follow Channel
+* Unfollow Channel
+* Report Channel (Fast) (You have to change the endpoint if you want to report a channel for something else.)
+* HTTP/HTTPS Proxies Required 
+* Twitch OAuth tokens/accounts required for all four options
 
 ---------------------------------------
