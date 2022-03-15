@@ -12,9 +12,9 @@
     Fast Twitch AIO tool made by me. 
     <br />
     <br />
-    <a href="https://github.com/kiIogram/Discord-Report-Bot/issues">Report Bug</a>
+    <a href="https://github.com/kiIogram/Swift-Twitch-AIO/issues">Report Bug</a>
     ·
-    <a href="https://github.com/kiIogram/Discord-Report-Bot/issues">Request Feature</a>
+    <a href="https://github.com/kiIogram/Swift-Twitch-AIO/issues">Request Feature</a>
   </p>
 </div>
   
