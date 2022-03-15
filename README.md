@@ -22,8 +22,8 @@
 
 ### Features
 * Check Tokens (Silent bans do not show up on the checker)
-* Follow Channel (May not work due to your tokens being silent banned.)
-* Unfollow Channel (May not work due to your tokens being silent banned.)
+* Follow Channel 
+* Unfollow Channel
 * Report Channel (Fast) (You have to change the endpoint if you want to report a channel for something else.)
 * HTTP/HTTPS Proxies Required 
 * Twitch OAuth tokens/accounts required for all four options
