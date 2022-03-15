@@ -12,6 +12,7 @@ banner = ("""
         \u001b[36;1m╚═╗\x1b[0m║║║\u001b[36;1m║\x1b[0m╠╣ \u001b[36;1m ║\x1b[0m   
         \u001b[36;1m╚═╝\x1b[0m╚╩╝\u001b[36;1m╩\x1b[0m╚  \u001b[36;1m ╩\x1b[0m     
         """)
+
 class Log:
     def time():
         return strftime("%H:%M:%S", gmtime())
